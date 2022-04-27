@@ -154,7 +154,7 @@ def main(*args):
         text1 = fp1.read()
     with open(filename2, "r") as fp2:
         text2 = fp2.read()
-    deb = True if len(args) == 4 else False
+    deb = True if len(args) ==5 else False
     text3 = pa1_1(text1, text2,deb)
 
     filename3 = args[3]
