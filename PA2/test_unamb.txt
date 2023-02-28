@@ -1,0 +1,4 @@
+S > SpA | e
+A > AmB | B
+B > CcB | C
+C > a

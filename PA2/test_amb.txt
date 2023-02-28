@@ -1,0 +1,3 @@
+S > AB | aaB
+A > aB | Aa | c
+B > aAb | c
